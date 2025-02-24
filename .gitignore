@@ -1,5 +1,6 @@
 root/*terraform
 root/*.tfvars
+root/.terraform.lock.hcl
 
 modules/key/client_key
 modules/key/client_key.pub
